@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# VSCode
+.vscode/
+
+# Environment Variables
+.env
+
+# macOS/Linux
+.DS_Store
+
+# PyCharm
+.idea/
